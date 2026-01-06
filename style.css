@@ -1,0 +1,18 @@
+.links-container {
+    display: flex;
+    gap: 15px;
+    margin-top: 15px;
+}
+.play-link {
+    color: #ff64d8;
+}
+
+.play-link:hover {
+    color: #fff;
+    text-decoration: underline;
+}
+
+.project-card {
+    height: auto; 
+    min-height: 400px;
+}
