@@ -247,3 +247,12 @@ body {
     font-size: 0.8rem;
     opacity: 0.6;
 }
+
+.pdf-link {
+    color: #ff9f43; 
+}
+
+.pdf-link:hover {
+    color: #ffd32a;
+    text-decoration: underline;
+}
